@@ -372,4 +372,4 @@ The application is fully responsive and works across:
 This is a personal productivity project. For suggestions or issues, please open an issue in the repository.
 
 
-Built with ❤️ using Lovable, React, and Supabase
+Built with ❤️ using React, and Supabase
